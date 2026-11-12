@@ -5,3 +5,4 @@
 5. cd ~ - jump straight to home
 6. clear - clears the entire screen
 7. mkdir - creates a directory
+This is an edit
